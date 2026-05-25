@@ -6,7 +6,7 @@ Predicts whether a higher-education student will graduate, drop out, or remain e
 
 - Tuition payment is the strongest dropout signal - students with overdue fees drop out at 86.6% vs 24.7% for those current on payments.
 - Scholarships cut dropout by 3x - holders drop out at 12.2% compared to 38.7% for non-recipients.
-- 1st-semester grades dominate feature importance — the top 4 predictors are academic metrics from semesters 1-2 (14.2%, 10.9%, 9.2%, 6.0% importance), making early intervention possible within 4 months of enrollment.
+- 1st-semester grades dominate feature importance, the top 4 predictors are academic metrics from semesters 1-2 (14.2%, 10.9%, 9.2%, 6.0% importance), making early intervention possible within 4 months of enrollment.
 
 ## How to Run
 
