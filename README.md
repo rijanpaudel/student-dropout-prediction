@@ -1,6 +1,6 @@
 ## Student Dropout Prediction
 
-Predicts whether a higher-education student will graduate, drop out, or remain enrolled** using a Random Forest classifier trained on a 4,424-student dataset with demographic, financial, and academic features.
+Predicts whether a higher-education student will graduate, drop out, or remain enrolled using a Random Forest classifier trained on a 4,424-student dataset with demographic, financial, and academic features.
 
 ## Key Findings
 
